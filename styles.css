@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fefefe;
+    background-color: #f1d0eb;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ button {
     transition: transform 0.3s ease-in-out;
     border: none;
     background-color: #ff69b4;
-    color: white;
+    color: #f1d0eb; 
     border-radius: 5px;
 }
 
