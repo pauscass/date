@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
     osito.src = "osito1.gif";
 
     // Cuando intentan presionar "No"
-    noButton.addEventListener("mouseover", function () {
+    noButton.addEventListener("click", function () {
         // Mover el botón "No" aleatoriamente
         const x = Math.random() * window.innerWidth - 100;
         const y = Math.random() * window.innerHeight - 50;
